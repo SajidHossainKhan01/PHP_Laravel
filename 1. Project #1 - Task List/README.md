@@ -1,6 +1,6 @@
 # Task Management Application
 
-This is a simple task management application built with Laravel for educational purposes.
+This is a simple task management application built with Laravel.
 
 ## Prerequisites
 
@@ -58,4 +58,4 @@ The application should now be running at `http://localhost:8000`.
 - Paginated task list
 - Form validation
 
-This project is intended for educational purposes to demonstrate basic Laravel functionality and CRUD operations.
+This project demonstrate basic Laravel functionality and CRUD operations.
